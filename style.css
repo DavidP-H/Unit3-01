@@ -1,0 +1,16 @@
+.myHeader {
+  text-align: center;
+  color: blueviolet;
+  border-style: solid;
+  border-color: blueviolet;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-family: 'Pacifico', cursive;
+}
+
+.myParagraph {
+  text-align: center;
+  color: gray;
+  margin: 20%;
+  font-family: 'Montserrat', sans-serif;
+}
